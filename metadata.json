@@ -1,0 +1,6 @@
+{
+  "name": "HabitPulse - Hábitos Saludables",
+  "description": "Registro diario de hábitos saludables con recuento de rachas, estadísticas de cumplimiento, hábitos personalizables, modo oscuro y notificaciones.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
